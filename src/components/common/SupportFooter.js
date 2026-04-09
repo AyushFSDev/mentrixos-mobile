@@ -80,7 +80,6 @@ const styles = StyleSheet.create({
     paddingVertical: 16,
     paddingHorizontal: 20,
     alignItems: 'center',
-    borderTopWidth: StyleSheet.hairlineWidth, // 1 physical pixel — crisp on all densities
   },
   text: {
     fontSize: 12,
